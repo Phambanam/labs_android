@@ -9,12 +9,12 @@
     tools:context=".MainActivity"
     tools:ignore="MissingDefaultResource">
 
-    <TextView
-        android:id="@+id/tv_test"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        />
 
+    <TextView
+            android:id="@+id/tv_test"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
     <Button
         android:id="@+id/btn_test"
         android:layout_width="match_parent"
