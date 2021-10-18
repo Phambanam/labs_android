@@ -4,30 +4,32 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:weightSum="3"
     tools:ignore="UseCompoundDrawables">
 
     <TextView
         android:id="@+id/tv_1"
         android:layout_width="wrap_content"
-        android:layout_height="match_parent"
+        android:layout_height="0dp"
         android:layout_gravity="start|top"
-        android:layout_weight="0.33"
+        android:layout_weight="1"
         android:text="@string/textview_1" />
 
     <TextView
         android:id="@+id/tv_2"
+        android:layout_weight="1"
         android:layout_width="wrap_content"
+        android:layout_height="0dp"
         android:layout_gravity="center"
-        android:layout_height="match_parent"
-        android:layout_weight="0.33"
         android:text="@string/test_textview_2" />
 
     <Button
         android:id="@+id/btn_1"
+        android:layout_weight="1"
         android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_weight="0.33"
+        android:layout_height="0dp"
         android:layout_gravity="end|bottom"
+        android:text="@string/button"
         tools:ignore="SpeakableTextPresentCheck" />
 
 </LinearLayout>
