@@ -3,8 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/projects_android/labs_android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/projects_android/labs_android/app/src/main/res/layout-v29/layout_3_8.xml" value="0.3625" />
+        <entry key="..\:/projects_android/labs_android/app/src/main/res/layout/layout_1_17.xml" value="0.3625" />
+        <entry key="..\:/projects_android/labs_android/app/src/main/res/layout/layout_1_17_1.xml" value="0.3625" />
+        <entry key="..\:/projects_android/labs_android/app/src/main/res/layout/layout_1_8.xml" value="0.3625" />
+        <entry key="..\:/projects_android/labs_android/app/src/main/res/layout/layout_1_8_1.xml" value="0.3625" />
+        <entry key="..\:/projects_android/labs_android/app/src/main/res/layout/layout_2_17.xml" value="0.3625" />
+        <entry key="..\:/projects_android/labs_android/app/src/main/res/layout/layout_3_8.xml" value="0.3625" />
+        <entry key="..\:/projects_android/labs_android/app/src/main/res/layout/zadanie_2_8.xml" value="0.3625" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3546875" />
-        <entry key="app/src/main/res/layout/layout_1_17.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/layout_1_17.xml" value="0.25" />
         <entry key="app/src/main/res/layout/layout_1_17_1.xml" value="0.35572916666666665" />
         <entry key="app/src/main/res/layout/layout_1_8.xml" value="0.25" />
         <entry key="app/src/main/res/layout/layout_1_8.xml.xml" value="0.1" />
